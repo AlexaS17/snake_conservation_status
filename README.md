@@ -1,8 +1,8 @@
 # Data analysis
 - Document here the project: snake_conservation_status
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: I'd like to compare the distribution and IUCN status of terrestrial snake species with recent drought episodes
+- Data Source: World's most endangered snakes on Kaggle (https://www.kaggle.com/datasets/kkhandekar/conservation-status-of-the-worlds-snakes), distribution data from IUCN
+- Type of analysis: visualisation, correlation analysis
 
 Please document the project the better you can.
 

@@ -6,7 +6,7 @@
 
 I have decided to focus on Australia, a snake biodiversity hotspot according to a study published a few years ago (https://www.nature.com/articles/s41559-017-0332-2-). Climate change, and in particular thermal and rainfall alterations, is regarded as one of the main threats for these species - along with habitat destruction.
 
-My aim is to overlap the distribution of Australian snakes with weather masp to highlight the most susceptible areas. 
+My aim is to overlap the distribution of Australian snakes with weather maps to possibly highlight the overlap between high-risk climate area and snake conservation status.
 
 # Startup the project
 

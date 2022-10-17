@@ -1,10 +1,12 @@
 # Data analysis
 - Document here the project: snake_conservation_status
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: I'd like to compare the distribution and IUCN status of terrestrial snake species with recent drought episodes
+- Data Source: World's most endangered snakes on Kaggle (https://www.kaggle.com/datasets/kkhandekar/conservation-status-of-the-worlds-snakes), distribution data from IUCN
+- Type of analysis: visualisation, correlation analysis
 
-Please document the project the better you can.
+I have decided to focus on Australia, a snake biodiversity hotspot according to a study published a few years ago (https://www.nature.com/articles/s41559-017-0332-2-). Climate change, and in particular thermal and rainfall alterations, is regarded as one of the main threats for these species - along with habitat destruction.
+
+My aim is to overlap the distribution of Australian snakes with weather maps to possibly highlight the overlap between high-risk climate area and snake conservation status.
 
 # Startup the project
 
@@ -25,7 +27,6 @@ make clean install test
 Check for snake_conservation_status in github.com/{group}. If your project is not set please add it:
 
 Create a new project on github.com/{group}/snake_conservation_status
-Then populate it:
 
 ```bash
 ##   e.g. if group is "{group}" and project_name is "snake_conservation_status"
@@ -34,7 +35,7 @@ git push -u origin master
 git push -u origin --tags
 ```
 
-Functionnal test with a script:
+Functional test with a script:
 
 ```bash
 cd
@@ -63,7 +64,8 @@ cd snake_conservation_status
 pip install -r requirements.txt
 make clean install test                # install and test
 ```
-Functionnal test with a script:
+
+Functional test with a script:
 
 ```bash
 cd
